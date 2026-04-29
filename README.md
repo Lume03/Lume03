@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Alonso</h1>
-<h3 align="center">Software Engineering Student | Data Engineering Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Data Engineering Student</h3>
 
 <p align="center">
   🚀 7th cycle Software Engineering student at  
@@ -14,18 +14,18 @@
 
 <table align="center">
 <tr>
-<td align="center">
+<td width="50%">
 
-- 🎓 7mo ciclo de Ingeniería de Software - UNMSM  
-- 📊 Enfocado en **Ingeniería de Datos**  
-- 🛠️ Trabajo con **Python, SQL, PostgreSQL, FastAPI**  
-- ☁️ Interesado en **Data Pipelines, APIs y Cloud**  
-- 🌱 Aprendiendo **Databricks, Supabase, SQLAlchemy**  
-- ⚡ Convirtiendo datos en decisiones  
+- 🎓 7th cycle Software Engineering student - UNMSM  
+- 📊 Focused on **Data Engineering**  
+- 🛠️ Working with **Python, PostgreSQL, FastAPI**  
+- ☁️ Interested in **Data Pipelines, APIs and Cloud**  
+- 🌱 Currently learning **Databricks, Airflow**  
+- ⚡ Turning data into decisions  
 
 </td>
 
-<td align="center">
+<td align="center" width="60%">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="250"/>
 </td>
 
@@ -37,7 +37,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,fastapi,vercel,supabase,git,github,html,ts" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,fastapi,vercel,supabase,git,github,js,tailwind,ts" />
 </p>
 
 ---
@@ -54,3 +54,10 @@
 </p>
 
 ---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lume03&theme=tokyonight" alt="Contribution activity" />
+</p>
+
