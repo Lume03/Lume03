@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Data Engineering Student</h3>
 
 <p align="center">
-  🚀 7th cycle Software Engineering student at  
+  🚀 8th cycle Software Engineering student at  
   <b>Universidad Nacional Mayor de San Marcos</b>  
   <br/>
   📊 Focused on <b>Data Engineering</b>.
